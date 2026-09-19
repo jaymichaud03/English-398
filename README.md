@@ -22,3 +22,12 @@ The image is legible at 100% zoom, however it is sometimes difficult for me to i
 ### 2. Identity 
 The HOLLIS for Archical Discovery catalogue confirms that the manuscript of Emily Dickinson's "Recipe for Black Cake" is held in the Emily Dickinson miscellaneous papers collection at the Houghtan Library. It can be found under the call number MS AM 1118.7. 
 Catalogue record: https://hollisarchives.lib.harvard.edu
+
+### 3. Text 
+I have not been able to identify a published transcription of Emily Dickinson's Recipe for Black Cake specifically to use as a comparison. Because of this, I will compare my transcription directly with the digitized manuscript image found and make sure to take note of any uncertain readings I have. 
+
+### 4. Boundaries
+The page that I have found within the website has clear boundaries because I am only editing one page of the manuscript. The text begins with the title of the document, then listing the ingredients, before ending with baking instructions on the opposite side of the page. I am treating both sides as one page because it forms the entire recipe with instructions clearly and makes sense to be idnetified as one page in the digitized manuscript. 
+
+### 5. Difficulty
+The passage that I have chosen is expected to present some difficulty to me because of Dickinson's handwriting. Since her handwriting looks to be cursive, this, at times, can become difficult for me to read. 
