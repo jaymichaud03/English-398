@@ -35,13 +35,13 @@
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <surface> ulx=0 uly=0 lrx=187 lry=251
+        <surface> ulx="0" uly="0" lrx="187" lry="251">
             <graphic>
                 url=<EmilyDickinson class="jpg"></EmilyDickinson>
             </graphic>
-            <zone type="header" ulx= uly= lrx= lry=> 
-                <zone type=""> 
-                    <zone type=""> 
+            <zone type="header" ulx="31" uly="10" lrx="146" lry="29"> 
+                <zone type="margin" ulx="12" uly="104" lrx="33" lry="190"> 
+                    <zone type="damage" ulx="5" uly="5" lrx="20" lry="28"> 
 
                     </zone>
                 </zone>
