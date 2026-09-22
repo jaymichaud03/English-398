@@ -3,3 +3,6 @@ Image_Date= JPEG
 File_Name= EmilyDickinson.jpg
 File_Size= 10,047 bytes 
 The file can be found at higher resolution than what I have saved.
+Width= 187
+Height= 251
+Licence=Access to the originals requires the permission of the curator.

@@ -1,0 +1,387 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Dickinson, Emily, 1830-1886. [Recipe for] black cake : A.MS. (unsigned); [Amherst, summer 1883]. MS Am 1118.7. Houghton Library, Harvard University, Cambridge, Mass."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Dickinson, Emily, 1830-1886. [Recipe for] black cake : A.MS. (unsigned); [Amherst, summer 1883].. Emily Dickinson miscellaneous papers"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1883"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Extent"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1s. (2p.) in 1 folder."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "box 1"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Rights"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Access to the originals requires the permission of the curator."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Additional Information"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://id.lib.harvard.edu/ead/c/hou01731c00021/catalog"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Repository"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Houghton Library"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Institution"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Harvard University"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "HOLLIS+"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href='http://id.lib.harvard.edu/aleph/009574111/catalog'>http://id.lib.harvard.edu/aleph/009574111/catalog</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Finding Aid"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href='http://nrs.harvard.edu/urn-3:FHCL.Hough:hou01731'>http://nrs.harvard.edu/urn-3:FHCL.Hough:hou01731</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Local"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href='http://id.lib.harvard.edu/ead/c/hou01731c00021/catalog'>http://id.lib.harvard.edu/ead/c/hou01731c00021/catalog</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Accessed"
+                ]
+            },
+            "value": {
+                "en": [
+                    "22 September 2026"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Provided by"
+            ]
+        },
+        "value": {
+            "en": [
+                "Harvard University under these terms: <a href=https://nrs.lib.harvard.edu/urn-3:hul.ois:hlviewerterms>https://nrs.lib.harvard.edu/urn-3:hul.ois:hlviewerterms</a>"
+            ]
+        }
+    },
+    "logo": [
+        {
+            "id": "https://nrs.harvard.edu/URN-3:HUL:HARVARDSHIELD",
+            "type": "Image"
+        }
+    ],
+    "seeAlso": [
+        {
+            "id": "https://api.lib.harvard.edu/v2/items/hou01731c00021",
+            "type": "Dataset",
+            "format": "application/mods+xml"
+        },
+        {
+            "id": "https://api.lib.harvard.edu/v2/items/hou01731c00021.json",
+            "type": "Dataset",
+            "format": "application/json"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788368",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 1, JL 835a, (HCL), (seq. 1)"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://mps.lib.harvard.edu/assets/images/drs:43788368/full/,250/0/default.jpg",
+                    "type": "Image"
+                }
+            ],
+            "height": 3697,
+            "width": 2764,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/eb7f5f8d-0cb2-47ca-b543-e68a097bd737",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/annotation/anno-drs:43788368",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788368",
+                            "body": {
+                                "id": "https://mps.lib.harvard.edu/assets/images/drs:43788368/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3697,
+                                "width": 2764,
+                                "service": [
+                                    {
+                                        "@context": "https://iiif.io/api/image/2/context.json",
+                                        "id": "https://mps.lib.harvard.edu/assets/images/drs:43788368",
+                                        "type": "Service",
+                                        "profile": "https://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788369",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pp. 2-3, blank, JL 835a, (HCL), (seq. 2)"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://mps.lib.harvard.edu/assets/images/drs:43788369/full/,250/0/default.jpg",
+                    "type": "Image"
+                }
+            ],
+            "height": 3708,
+            "width": 5020,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/a23eeb87-4d33-44b7-a3d6-3d7412538597",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/annotation/anno-drs:43788369",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788369",
+                            "body": {
+                                "id": "https://mps.lib.harvard.edu/assets/images/drs:43788369/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3708,
+                                "width": 5020,
+                                "service": [
+                                    {
+                                        "@context": "https://iiif.io/api/image/2/context.json",
+                                        "id": "https://mps.lib.harvard.edu/assets/images/drs:43788369",
+                                        "type": "Service",
+                                        "profile": "https://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788370",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 4, blank, (seq. 3)"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://mps.lib.harvard.edu/assets/images/drs:43788370/full/,250/0/default.jpg",
+                    "type": "Image"
+                }
+            ],
+            "height": 3708,
+            "width": 2793,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/6e65cd0e-3d2b-462c-8106-43031eedeff4",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/annotation/anno-drs:43788370",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788370",
+                            "body": {
+                                "id": "https://mps.lib.harvard.edu/assets/images/drs:43788370/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3708,
+                                "width": 2793,
+                                "service": [
+                                    {
+                                        "@context": "https://iiif.io/api/image/2/context.json",
+                                        "id": "https://mps.lib.harvard.edu/assets/images/drs:43788370",
+                                        "type": "Service",
+                                        "profile": "https://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650/range/range-0",
+            "type": "Range",
+            "label": {
+                "none": [
+                    "Table of Contents"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650/range/range-0-0",
+                    "type": "Range",
+                    "label": {
+                        "none": [
+                            "p. 1, JL 835a, (HCL) (seq. 1)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788368",
+                            "type": "Canvas"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650/range/range-0-1",
+                    "type": "Range",
+                    "label": {
+                        "none": [
+                            "pp. 2-3, blank, JL 835a, (HCL) (seq. 2)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788369",
+                            "type": "Canvas"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650/range/range-0-2",
+                    "type": "Range",
+                    "label": {
+                        "none": [
+                            "p. 4, blank (seq. 3)"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "id": "https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:1121650:MANIFEST:3/canvas/canvas-drs:43788370",
+                            "type": "Canvas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -34,6 +34,20 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <facsimile>
+        <surface> ulx=0 uly=0 lrx=187 lry=251
+            <graphic>
+                url=<EmilyDickinson class="jpg"></EmilyDickinson>
+            </graphic>
+            <zone type="header" ulx= uly= lrx= lry=> 
+                <zone type=""> 
+                    <zone type=""> 
+
+                    </zone>
+                </zone>
+            </zone>
+        </surface>
+    </facsimile>
     <text>
         <body>
             <p>
